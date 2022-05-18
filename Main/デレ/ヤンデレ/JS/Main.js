@@ -12,6 +12,6 @@ rl.on("line", async function (line) {
         console.log(`${name} 사랑해줘❤`);
         await new Promise((r) => setTimeout(r, 500));
         console.log(`${name} 사랑해줄래요?`);
-        await new Promise((r) => setTimeout(r, 1000));
+        await new Promise((r) => setTimeout(r, 500));
     }
 })
