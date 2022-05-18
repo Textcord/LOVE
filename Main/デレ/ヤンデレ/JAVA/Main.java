@@ -9,7 +9,7 @@ public class Main {
             System.out.printf("%s 사랑해줘❤\n",name);
             Thread.sleep(500);
             System.out.printf("%s 사랑해줄래요?\n",name);
-            Thread.sleep(1000);
+            Thread.sleep(500);
         }
     }
 }
