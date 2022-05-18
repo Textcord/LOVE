@@ -17,7 +17,7 @@ int main()
         printf("%s 사랑해줘❤\n", name.c_str());
         Sleep(500);
         printf("%s 사랑해줄래요?\n", name.c_str());
-        Sleep(1000);
+        Sleep(500);
     }
     return 0;
 }
