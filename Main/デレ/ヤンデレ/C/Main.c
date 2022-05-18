@@ -9,6 +9,6 @@ int main() {
         printf("%c 사랑해줘❤\n", name);
         Sleep(500);
         printf("%c 사랑해줄래요?\n", name);
-        Sleep(1000);
+        Sleep(500);
     }
 }
